@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/geospatial-jeff/cognition-datasources-dgopendata.svg?style=svg)](https://circleci.com/gh/geospatial-jeff/cognition-datasources-dgopendata)
+
 ## DG Open Data
 
 | Parameter | Status |
