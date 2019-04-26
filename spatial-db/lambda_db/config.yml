@@ -1,0 +1,7 @@
+db_name: 'dg-disaster-coverages'
+config:
+  min_res: 9
+  max_res: 14
+  limit: 500
+  unique_id: 'id'
+  compress: true
